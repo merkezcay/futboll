@@ -1,2 +1,2 @@
 # futboll
- Python ile futboll simulasyon
+ Python ile futbol simulasyonu
